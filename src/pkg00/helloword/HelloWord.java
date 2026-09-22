@@ -34,7 +34,7 @@ public class HelloWord {
              **/ 
             //exo 4
             
-            Scanner sc = new Scanner(System.in);
+            /** Scanner sc = new Scanner(System.in);
             int x = 0;  
             int y = 0;
             int pierre = 0;
@@ -49,6 +49,7 @@ public class HelloWord {
             x=y;
             y=pierre;
             System.out.println("x : " + x + "----y : " + y );
+            **/
             }
         } 
         
