@@ -15,7 +15,7 @@ public class HelloWord {
      */
     public static void main(String[] args) {
         
-        // exo 1
+        // exo 
         System.out.println("Hello Word! by YG on github!");
         System.out.println("Hello Word! by YG on github!2");
         
