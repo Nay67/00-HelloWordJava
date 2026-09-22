@@ -35,12 +35,20 @@ public class HelloWord {
             //exo 4
             
             Scanner sc = new Scanner(System.in);
-            int x = 0;
-            int y = 0; 
-           
-            System.out.print("quelle est votre x? : ");
-            System.out.print("quelle est votre y? : ");
-                    
+            int x = 0;  
+            int y = 0;
+            int pierre = 0;
+            
+            
+            System.out.print("x : ");
+            x = sc.nextInt();      
+            System.out.print("y : ");
+            y = sc.nextInt();  
+            System.out.println("x : " + x + "----y : " + y );
+            pierre=x;
+            x=y;
+            y=pierre;
+            System.out.println("x : " + x + "----y : " + y );
             }
         } 
         
