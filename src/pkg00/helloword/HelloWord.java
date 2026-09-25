@@ -21,7 +21,7 @@ public class HelloWord {
         System.out.println("Hello Word! by YG on github!2");
         
         // exo 2 non
-        //exo 3 
+        //exercice 3 
         
             
             /** Scanner sc = new Scanner(System.in);
