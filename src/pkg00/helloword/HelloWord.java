@@ -20,7 +20,7 @@ public class HelloWord {
         System.out.println("Hello Word! by YG on github!");
         System.out.println("Hello Word! by YG on github!2");
         
-        // exo 2 non
+        // exoeee 2 non
         //exercice 3 
         
             
