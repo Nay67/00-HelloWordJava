@@ -70,6 +70,24 @@ public class HelloWord {
             System.out.println("le resultat de (a + b) * 2 est : " + c);
             **/           
             
+            //exo 2 mot de passe
+            
+            /** Scanner sc = new Scanner(System.in);
+             System.out.println("mot de passe :");
+             String texte = sc.nextLine();
+             
+             String mdp = "admin123";
+             
+             while (!texte.equals("mdp"))
+             {
+                   System.out.print("mot de passe : ");
+                   texte = sc.nextLine();
+                           }    
+            **/
+                 
+              
+             
+             
             
             
             
