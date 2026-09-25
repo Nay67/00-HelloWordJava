@@ -50,6 +50,32 @@ public class HelloWord {
             y=pierre;
             System.out.println("x : " + x + "----y : " + y );
             **/
+            
+
+            //EXO 5
+                     
+            /** Scanner sc = new Scanner(System.in);
+            int a = 0;
+            int b = 0;
+            int c = 0;
+            
+            System.out.print ("Entrer la valeur de a (nombre reel) : ");
+            a = sc.nextInt ();
+            
+            System.out.print ("Entrer la valeur de b (nombre reel) : ");
+            b = sc.nextInt ();
+            
+            c = (a+b) *2;
+            
+            System.out.println("le resultat de (a + b) * 2 est : " + c);
+            **/           
+            
+            
+            
+            
+            
+            
+            
             }
         } 
         
